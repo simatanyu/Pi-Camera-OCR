@@ -1,7 +1,7 @@
 # Raspeberry Pi camera and OCR
 This project developed for raspeberry Pi and low resolution camera. By using Tesseract 4.0 trained tessdata to recognize 7 segment fonts. This project can also be used with "OCR-Web-Graph".  
 
-**nml.trainedata** 
+**nml.trainedata**  
 *Char train = 2.553%, word train = 4.5%*
 
 **Capturer.py**  
